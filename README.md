@@ -1,6 +1,6 @@
 # Shipping-product-Delivery-Performance
 
-# 📝 Overview
+#  Overview
 
 The Shipping & Product Delivery Performance Dashboard is a complete data analytics solution designed to analyze:
 
@@ -19,7 +19,7 @@ This dashboard helps decision-makers quickly identify trends, optimize shipping 
 
 
 
-# 🎯 Objectives of the Project
+#  Objectives of the Project
 
 This project aims to answer key business questions:
 
@@ -37,7 +37,7 @@ Where do our customers live?
 
 What is the gender distribution of our customers?
 
-# 📌 Key Business Problems Addressed
+#  Key Business Problems Addressed
 
 Lack of visibility into shipping performance
 
@@ -51,7 +51,7 @@ Challenges in inventory & demand planning
 
 Need for fast and accurate business reporting
 
-# 📊 Key Performance Indicators (KPIs)
+#  Key Performance Indicators (KPIs)
 
 
 Total Orders -- Total number of customer orders placed
@@ -75,11 +75,11 @@ Customer Channel Split	-- Distribution of where customers prefer to shop (App, W
 -<a href="https://github.com/Suresh-Note/Shipping-product-Delivery-Performance/blob/main/DASHBOARD.png">view Dashboard</a>
 
 
-# 🖼️ Dashboard Components Explained
+# Dashboard Components Explained
 
 Below is an explanation of each section of the dashboard and what insights it provides.
 
-📈 1. 13-Week Sales Trend
+1. 13-Week Sales Trend
 
 A line chart showing weekly sales over the last 13 weeks.
 Purpose:
@@ -90,7 +90,7 @@ Identify high-sale & low-sale weeks
 
 Support forecasting and planning
 
-🛒 2. Customer Buying Method (Heatmap)
+ 2. Customer Buying Method (Heatmap)
 
 A heatmap showing purchase channels segmented by gender:
 
@@ -112,7 +112,7 @@ Analyze gender-based buying patterns
 
 Prioritize marketing spend on top channels
 
-📦 3. Quantity Purchased
+ 3. Quantity Purchased
 
 A histogram/bar chart showing how many units customers typically buy in an order.
 Purpose:
@@ -121,7 +121,7 @@ Understand customer purchasing behavior
 
 Identify single-item vs bulk buying frequency
 
-⭐ 4. Popular Products
+ 4. Popular Products
 
 A horizontal bar chart highlighting the best-selling items (T-Shirts, Jeans, Sneakers, etc.).
 Purpose:
@@ -132,7 +132,7 @@ Improve inventory planning
 
 Plan targeted promotions
 
-🚚 5. Shipping Time
+ 5. Shipping Time
 
 A histogram showing distribution of delivery times (in days).
 Purpose:
@@ -143,7 +143,7 @@ Identify any delivery delays
 
 Support improvement in logistics
 
-👥 6. Gender Split (Donut Chart)
+ 6. Gender Split (Donut Chart)
 
 Shows overall customer distribution:
 
@@ -161,7 +161,7 @@ Understand the customer demographics
 
 Support gender-based marketing strategy
 
-😊 7. Customer Happiness
+ 7. Customer Happiness
 
 A clustered bar chart showing customer satisfaction per month.
 Purpose:
@@ -172,7 +172,7 @@ Identify service improvement needs
 
 Correlate satisfaction with shipping time & product quality
 
-# 🧰 Tools & Technologies Used
+#  Tools & Technologies Used
 
 Microsoft Excel
 
@@ -190,7 +190,7 @@ Data Cleaning & Modeling
 
 
 
-# 🏁 Conclusion
+#  Conclusion
 
 This dashboard gives a 360° business view by combining sales, customer behavior, product performance, and shipping operations.
 It empowers managers to make smarter, data-driven decisions that improve both customer satisfaction and operational efficiency.
