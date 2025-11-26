@@ -69,10 +69,10 @@ Top Products Sold	-- Best-selling product categories or items
 Customer Channel Split	-- Distribution of where customers prefer to shop (App, Website, Instagram, etc.)
 
 Dataset Used 
--<a href="https://github.com/Suresh-Note/Shipping-product-Delivery-Performance/blob/main/Shipping%20%26%20product%20delivery%20performences%20.xlsx">
+-<a href="https://github.com/Suresh-Note/Shipping-product-Delivery-Performance/blob/main/Shipping%20%26%20product%20delivery%20performences%20.xlsx">Dataset</a>
 
 Dashboard 
-
+-<a href="https://github.com/Suresh-Note/Shipping-product-Delivery-Performance/blob/main/DASHBOARD.png">view Dashboard</a>
 
 
 🖼️ Dashboard Components Explained
