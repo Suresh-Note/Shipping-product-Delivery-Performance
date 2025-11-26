@@ -1,6 +1,6 @@
 # Shipping-product-Delivery-Performance
 
-📝 Overview
+# 📝 Overview
 
 The Shipping & Product Delivery Performance Dashboard is a complete data analytics solution designed to analyze:
 
@@ -19,7 +19,7 @@ This dashboard helps decision-makers quickly identify trends, optimize shipping 
 
 
 
-🎯 Objectives of the Project
+# 🎯 Objectives of the Project
 
 This project aims to answer key business questions:
 
@@ -37,7 +37,7 @@ Where do our customers live?
 
 What is the gender distribution of our customers?
 
-📌 Key Business Problems Addressed
+# 📌 Key Business Problems Addressed
 
 Lack of visibility into shipping performance
 
@@ -51,7 +51,7 @@ Challenges in inventory & demand planning
 
 Need for fast and accurate business reporting
 
-📊 Key Performance Indicators (KPIs)
+# 📊 Key Performance Indicators (KPIs)
 
 
 Total Orders -- Total number of customer orders placed
@@ -68,14 +68,14 @@ Top Products Sold	-- Best-selling product categories or items
 
 Customer Channel Split	-- Distribution of where customers prefer to shop (App, Website, Instagram, etc.)
 
-Dataset Used 
+# Dataset Used 
 -<a href="https://github.com/Suresh-Note/Shipping-product-Delivery-Performance/blob/main/Shipping%20%26%20product%20delivery%20performences%20.xlsx">Dataset</a>
 
-Dashboard 
+# Dashboard view 
 -<a href="https://github.com/Suresh-Note/Shipping-product-Delivery-Performance/blob/main/DASHBOARD.png">view Dashboard</a>
 
 
-🖼️ Dashboard Components Explained
+# 🖼️ Dashboard Components Explained
 
 Below is an explanation of each section of the dashboard and what insights it provides.
 
@@ -172,7 +172,7 @@ Identify service improvement needs
 
 Correlate satisfaction with shipping time & product quality
 
-🧰 Tools & Technologies Used
+# 🧰 Tools & Technologies Used
 
 Microsoft Excel
 
@@ -190,7 +190,11 @@ Data Cleaning & Modeling
 
 
 
-🏁 Conclusion
+# 🏁 Conclusion
 
 This dashboard gives a 360° business view by combining sales, customer behavior, product performance, and shipping operations.
 It empowers managers to make smarter, data-driven decisions that improve both customer satisfaction and operational efficiency.
+
+# Dashboard 
+<img width="1604" height="893" alt="DASHBOARD" src="https://github.com/user-attachments/assets/d5a3116d-85b7-4bea-89c9-bde416157fa4" />
+
